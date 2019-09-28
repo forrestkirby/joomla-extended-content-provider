@@ -20,7 +20,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Installation
 
 - download and unzip the content provider package
-- copy the complete folder `joomla-extended/` into the directory `/administrator/components/com_widgetkit/plugins/content/` of your Joomla installation
+- copy the complete folder `joomla-extended-content-provider-master` into the directory `/administrator/components/com_widgetkit/plugins/content/` of your Joomla installation
+- rename the folder `joomla-extended-content-provider-master` to `joomla-extended`
 - access Widgetkit in your Joomla backend, the custom content provider should now be available
 
 ## Issues
