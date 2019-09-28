@@ -1,3 +1,9 @@
+<!--
+ @author    YOOtheme http://www.yootheme.com, adapted by forrestkirby https://github.com/forrestkirby
+ @copyright (C) 2007-2019 YOOtheme GmbH yootheme.com, 2019 forrestkirby github.com/forrestkirby
+ @license   http://www.gnu.org/licenses/gpl.html GNU/GPL
+-->
+
 <div class="uk-form uk-form-horizontal" ng-class="vm.name == 'contentCtrl' ? 'uk-width-large-2-3 wk-width-xlarge-1-2' : ''">
 
     <h3 class="wk-form-heading">{{'Content' | trans}}</h3>
